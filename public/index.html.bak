@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>QGrupBej - Test</title>
+</head>
+<body>
+    <h1>QGrupBej Platform</h1>
+    <p>This is a test page. The Laravel application should handle all other routes.</p>
+    <p><a href="/map">Go to Main Application</a></p>
+</body>
+</html>
